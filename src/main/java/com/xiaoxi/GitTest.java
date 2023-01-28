@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("hello idea-git4444!");
         System.out.println("hello idea-git4444! master");
         System.out.println("hello idea-git4444! temp");
+        System.out.println("hello idea-git5555! push");
     }
 }
