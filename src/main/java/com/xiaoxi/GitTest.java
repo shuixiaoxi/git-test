@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("hello idea-git3333!");
         System.out.println("hello idea-git4444!");
         System.out.println("hello idea-git4444! master");
+        System.out.println("hello idea-git4444! temp");
     }
 }
